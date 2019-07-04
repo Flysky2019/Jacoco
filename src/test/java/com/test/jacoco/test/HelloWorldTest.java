@@ -1,7 +1,7 @@
 package com.test.jacoco.test;
 
 /**
- * Created by zc on 2017/5/2.
+ * Created by zc on .
  */
 
 import junit.framework.Assert;
